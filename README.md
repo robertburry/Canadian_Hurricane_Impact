@@ -1,3 +1,5 @@
+[![pages-build-deployment](https://github.com/robertburry/Canadian_Hurricane_Impact/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/robertburry/Canadian_Hurricane_Impact/actions/workflows/pages/pages-build-deployment)
+
 # Canadian_Hurricane_Impact
  This is a repository to showcase the impacts hurricanes have within Canada, along with their observations. The goal of this project is to aggregate data from all across different organizations and sources into one compact resource. 
 
